@@ -1,6 +1,0 @@
-Abstract (Group 17)
-
-For our semester project, we have chosen the project topic 'Handwritten digit recognition'. 
-We aim to compare the model performance of the linear classifier to other classifiers such as k-Nearest Neighbor, RandomForest and CNN.
-When applying these models, we will consider the effect of different preprocessing methods on the data, e.g. 
-Principal Component Analysis (PCA) and K-means clustering.  
